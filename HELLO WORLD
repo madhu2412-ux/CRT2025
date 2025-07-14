@@ -1,0 +1,5 @@
+public class madhu{
+  public static void main(strings[] args){
+  system.out.println("hello");
+}
+}
